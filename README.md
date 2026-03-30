@@ -1,5 +1,2 @@
-# Projeto Git
-
 ## Aprendizados
-- Aprendi Git
-- Aprendi GitHub
+- Git: exemplo conflito
